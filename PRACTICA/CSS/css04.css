@@ -1,0 +1,12 @@
+.margen {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 2px solid lightsalmon;
+
+}
+
+.padding {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 2px solid lightgreen;
+}

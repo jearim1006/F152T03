@@ -1,0 +1,30 @@
+.contenedor {
+  width: 300px;
+  margin: 20px auto;
+  padding: 10px;
+  background-color: white;
+}
+
+.bloque1 {
+  display: block;                
+  background-color: lightblue;   
+  padding: 10px;                 
+  border: 1px solid violet;     
+  margin-bottom: 10px;           
+}
+
+.bloque2 {
+  display: block;                
+  background-color: orange;   
+  padding: 10px;                 
+  border: 1px solid violet;     
+  margin-bottom: 10px;           
+}
+
+.bloque3 {
+  display: block;                
+  background-color: lightcoral;   
+  padding: 10px;                 
+  border: 1px solid violet;     
+  margin-bottom: 10px;           
+}
